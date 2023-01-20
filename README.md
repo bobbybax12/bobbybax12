@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Baxter Jr.
 - 👀 I’m interested in Software Engineering and Business Development!!
-- 🌱 I’m currently studying Data Structures and Algorithms for the 2023 internship season
+- 🌱 I’m currently studying Systems Programming in preparation for the 2023 internship season
 - 💞️ I’m currently looking to expland my network and become a better programmer
 - 📫 Contact me via email at rsb2194@columbia.edu
 
